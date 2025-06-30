@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73794560-8927-4c5c-8d8a-dd6b1ba1e5f5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tAv8ydNg5nPAQC3X6fmytlSuWB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;FastAPI.local development.executor&quot;: &quot;Run&quot;,
+    &quot;FastAPI.local.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_methods_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_advance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_advance_kn13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_advanced_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_kn11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes_tasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datetime_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datetime_kn13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fast_api_forms_and_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files_kn11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.files_kn13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate-bd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inh_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inh_kn13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_2_kn11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_kn11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_list_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists_advanced.executor&quot;: &quot;Run&quot;,
+    &quot;Python.location.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_kn_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_kn_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_tools_kn11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_tools_kn12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_tools_kn13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rental.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.users.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;com.codeium.snoozedEndTime&quot;: &quot;1743855150262&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyProjects/Laba_5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeWithMe&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73794560-8927-4c5c-8d8a-dd6b1ba1e5f5" name="Changes" comment="" />
+      <created>1716027834598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716027834598</updated>
+      <workItem from="1716027836976" duration="250000" />
+      <workItem from="1739807538844" duration="19000" />
+      <workItem from="1739808358608" duration="2051000" />
+      <workItem from="1739949068974" duration="17000" />
+      <workItem from="1739976307718" duration="3000" />
+      <workItem from="1740064797230" duration="4651000" />
+      <workItem from="1740126313544" duration="9000" />
+      <workItem from="1740126325478" duration="7000" />
+      <workItem from="1740127627242" duration="4000" />
+      <workItem from="1740327159734" duration="3000" />
+      <workItem from="1740409750661" duration="4450000" />
+      <workItem from="1740582860541" duration="12000" />
+      <workItem from="1740587943925" duration="3627000" />
+      <workItem from="1740751047968" duration="3000" />
+      <workItem from="1740755446332" duration="3149000" />
+      <workItem from="1740907623588" duration="118000" />
+      <workItem from="1740907752555" duration="8000" />
+      <workItem from="1740909192683" duration="601000" />
+      <workItem from="1740988680076" duration="197000" />
+      <workItem from="1741012204973" duration="12000" />
+      <workItem from="1741014632895" duration="4990000" />
+      <workItem from="1741100925334" duration="9121000" />
+      <workItem from="1741192770574" duration="11000" />
+      <workItem from="1741273539238" duration="8250000" />
+      <workItem from="1741332615759" duration="5000" />
+      <workItem from="1741360270606" duration="3492000" />
+      <workItem from="1741619446957" duration="2629000" />
+      <workItem from="1741705843222" duration="6946000" />
+      <workItem from="1741797345084" duration="5000" />
+      <workItem from="1742021917330" duration="3983000" />
+      <workItem from="1742152082470" duration="1000" />
+      <workItem from="1742152585179" duration="7000" />
+      <workItem from="1742152794340" duration="8000" />
+      <workItem from="1742626837613" duration="16878000" />
+      <workItem from="1742679249454" duration="4000" />
+      <workItem from="1742826906931" duration="10000" />
+      <workItem from="1742885694689" duration="5322000" />
+      <workItem from="1742915447441" duration="9116000" />
+      <workItem from="1742925185032" duration="603000" />
+      <workItem from="1743001740829" duration="3080000" />
+      <workItem from="1743088222256" duration="6874000" />
+      <workItem from="1743192260443" duration="2669000" />
+      <workItem from="1743231061803" duration="5443000" />
+      <workItem from="1743248242287" duration="285000" />
+      <workItem from="1743271314853" duration="1631000" />
+      <workItem from="1743415750596" duration="1769000" />
+      <workItem from="1743427657179" duration="5000" />
+      <workItem from="1743487064292" duration="5059000" />
+      <workItem from="1743517227043" duration="3000" />
+      <workItem from="1743773130162" duration="3139000" />
+      <workItem from="1743850984745" duration="3764000" />
+      <workItem from="1743933991543" duration="12000" />
+      <workItem from="1743958770453" duration="4000" />
+      <workItem from="1744094124497" duration="2513000" />
+      <workItem from="1744121388591" duration="2479000" />
+      <workItem from="1744208740148" duration="2768000" />
+      <workItem from="1744276847883" duration="26000" />
+      <workItem from="1744276889290" duration="6000" />
+      <workItem from="1744292721802" duration="385000" />
+      <workItem from="1744387183579" duration="1817000" />
+      <workItem from="1744610142242" duration="4577000" />
+      <workItem from="1744699035884" duration="95000" />
+      <workItem from="1744699137232" duration="19000" />
+      <workItem from="1744734420556" duration="3000" />
+      <workItem from="1745223958642" duration="41000" />
+      <workItem from="1745246095470" duration="1146000" />
+      <workItem from="1745300779053" duration="880000" />
+      <workItem from="1745301671330" duration="3846000" />
+      <workItem from="1745422242866" duration="2698000" />
+      <workItem from="1745424952477" duration="1829000" />
+      <workItem from="1745474025553" duration="3218000" />
+      <workItem from="1745506000736" duration="615000" />
+      <workItem from="1745506629052" duration="876000" />
+      <workItem from="1745660077653" duration="17000" />
+      <workItem from="1745660302753" duration="3971000" />
+      <workItem from="1745665502893" duration="635000" />
+      <workItem from="1745666592645" duration="9412000" />
+      <workItem from="1746018664686" duration="2237000" />
+      <workItem from="1746513530292" duration="14000" />
+      <workItem from="1746703138594" duration="575000" />
+      <workItem from="1746721725085" duration="856000" />
+      <workItem from="1747837364038" duration="85000" />
+      <workItem from="1747908937820" duration="6474000" />
+      <workItem from="1747925627952" duration="1084000" />
+      <workItem from="1747927133588" duration="351000" />
+      <workItem from="1747927620438" duration="4775000" />
+      <workItem from="1747933414539" duration="689000" />
+      <workItem from="1747935469336" duration="32000" />
+      <workItem from="1747997618001" duration="7277000" />
+      <workItem from="1748078901659" duration="480000" />
+      <workItem from="1748081338701" duration="15000" />
+      <workItem from="1748081935955" duration="32000" />
+      <workItem from="1748961206237" duration="6401000" />
+      <workItem from="1749023723549" duration="9000" />
+      <workItem from="1749327199090" duration="1442000" />
+      <workItem from="1749328677451" duration="159000" />
+      <workItem from="1749328917628" duration="393000" />
+      <workItem from="1749330607839" duration="220000" />
+      <workItem from="1749447945903" duration="1261000" />
+      <workItem from="1750363672584" duration="604000" />
+      <workItem from="1750365213191" duration="2224000" />
+      <workItem from="1750413412551" duration="984000" />
+      <workItem from="1751013451743" duration="6000" />
+      <workItem from="1751013699450" duration="30000" />
+      <workItem from="1751294540545" duration="13000" />
+      <workItem from="1751307913762" duration="726000" />
+      <workItem from="1751313275774" duration="688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/laba_4$cars.coverage" NAME="cars Coverage Results" MODIFIED="1745682106145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
+    <SUITE FILE_PATH="coverage/kn_python_course$classes_advance.coverage" NAME="classes_advance Coverage Results" MODIFIED="1741621185800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$db_main.coverage" NAME="db_main Coverage Results" MODIFIED="1744614474061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laba_4$main.coverage" NAME="main Coverage Results" MODIFIED="1746022436635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$conditions.coverage" NAME="conditions Coverage Results" MODIFIED="1740068745859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$local.coverage" NAME="local Coverage Results" MODIFIED="1745477122358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/kn_python_course$files_kn11.coverage" NAME="files_kn11 Coverage Results" MODIFIED="1741620897324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$main_kn_13.coverage" NAME="main_kn_13 Coverage Results" MODIFIED="1742920233217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$main_tools_kn12.coverage" NAME="main_tools_kn12 Coverage Results" MODIFIED="1742631177417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$main_tools_kn11.coverage" NAME="main_tools_kn11 Coverage Results" MODIFIED="1742641818638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$inh_kn12.coverage" NAME="inh_kn12 Coverage Results" MODIFIED="1741713135870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$list_kn11.coverage" NAME="list_kn11 Coverage Results" MODIFIED="1741109813019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$fast_api_forms_and_files.coverage" NAME="fast_api_forms_and_files Coverage Results" MODIFIED="1744209805769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_project$rental.coverage" NAME="rental Coverage Results" MODIFIED="1748008034203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core" />
+    <SUITE FILE_PATH="coverage/Final_project$user.coverage" NAME="user Coverage Results" MODIFIED="1748968078127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crud" />
+    <SUITE FILE_PATH="coverage/kn_python_course$files_kn12.coverage" NAME="files_kn12 Coverage Results" MODIFIED="1741364785671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$lab_2_kn11.coverage" NAME="lab_2_kn11 Coverage Results" MODIFIED="1743491286556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$classes_tasks.coverage" NAME="classes_tasks Coverage Results" MODIFIED="1740758814715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$local_development.coverage" NAME="local development Coverage Results" MODIFIED="1745425998458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/kn_python_course$lists_advanced.coverage" NAME="lists_advanced Coverage Results" MODIFIED="1741017391246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$datetime_kn13.coverage" NAME="datetime_kn13 Coverage Results" MODIFIED="1743095552706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$main_tools_kn13.coverage" NAME="main_tools_kn13 Coverage Results" MODIFIED="1742635815909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$list_list_kn12.coverage" NAME="list_list_kn12 Coverage Results" MODIFIED="1741104294864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_project$location.coverage" NAME="location Coverage Results" MODIFIED="1747999926544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
+    <SUITE FILE_PATH="coverage/kn_python_course$inh_kn13.coverage" NAME="inh_kn13 Coverage Results" MODIFIED="1741707869876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$class_methods_kn12.coverage" NAME="class_methods_kn12 Coverage Results" MODIFIED="1741102321540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$classes_advanced_kn12.coverage" NAME="classes_advanced_kn12 Coverage Results" MODIFIED="1741712365890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laba_4__$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1747915603452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
+    <SUITE FILE_PATH="coverage/kn_python_course$classes_kn11.coverage" NAME="classes_kn11 Coverage Results" MODIFIED="1741107528267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_project$generate_bd.coverage" NAME="generate-bd Coverage Results" MODIFIED="1749328089467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_project$main.coverage" NAME="main Coverage Results" MODIFIED="1749448283054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$main_kn_12.coverage" NAME="main_kn_12 Coverage Results" MODIFIED="1742924847371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$classes_advance_kn13.coverage" NAME="classes_advance_kn13 Coverage Results" MODIFIED="1741706944779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laba_4__$main.coverage" NAME="main Coverage Results" MODIFIED="1747914863723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$class_methods.coverage" NAME="class_methods Coverage Results" MODIFIED="1741018580515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$users.coverage" NAME="users Coverage Results" MODIFIED="1745304538386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/controllers" />
+    <SUITE FILE_PATH="coverage/kn_python_course$main.coverage" NAME="main Coverage Results" MODIFIED="1745304565891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laba_4$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1745670043141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/kn_python_course$files_kn13.coverage" NAME="files_kn13 Coverage Results" MODIFIED="1741280156161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kn_python_course$datetime_kn12.coverage" NAME="datetime_kn12 Coverage Results" MODIFIED="1743089891817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
